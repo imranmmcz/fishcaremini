@@ -1,0 +1,2 @@
+# fishcaremini
+Minimax Agent
